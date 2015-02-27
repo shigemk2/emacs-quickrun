@@ -95,7 +95,7 @@ as default. But you can register your own command and apply other languages.
 * Scheme(gosh)
 * Common Lisp(clisp or sbcl or ccl)
 * Clojure(jark or clj-env-dir)
-* Javascript(node or v8 or js or jrunscript or cscript)
+* Javascript(node or v8 or js or jrunscript or cscript or iojs)
 * Coffee Script(coffee)
 * JSX(jsx)
 * Markdown(Markdown.pl or bluecloth or kramdown or pandoc or redcarpet)

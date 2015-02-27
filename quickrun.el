@@ -272,6 +272,9 @@
                              (:cmdopt . "//Nologo")
                              (:description . "Run Javascript file with cscript")))
 
+    ("javascript/iojs" . ((:command . "iojs")
+                          (:description . "Run Javascript file with io.js")))
+
     ("coffee" . ((:command . "coffee")
                  (:compile-only . "coffee --print %s")
                  (:compile-conf . ((:compilation-mode . nil) (:mode . js-mode)))
